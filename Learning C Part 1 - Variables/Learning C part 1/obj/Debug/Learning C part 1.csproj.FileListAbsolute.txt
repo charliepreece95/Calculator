@@ -1,0 +1,12 @@
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C part 1\Learning C part 1\bin\Debug\Learning C part 1.exe.config
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C part 1\Learning C part 1\bin\Debug\Learning C part 1.exe
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C part 1\Learning C part 1\bin\Debug\Learning C part 1.pdb
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C part 1\Learning C part 1\obj\Debug\Learning C part 1.csprojResolveAssemblyReference.cache
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C part 1\Learning C part 1\obj\Debug\Learning C part 1.exe
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C part 1\Learning C part 1\obj\Debug\Learning C part 1.pdb
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 1 - Variables\Learning C part 1\bin\Debug\Learning C part 1.exe.config
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 1 - Variables\Learning C part 1\obj\Debug\Learning C part 1.exe
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 1 - Variables\Learning C part 1\obj\Debug\Learning C part 1.pdb
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 1 - Variables\Learning C part 1\bin\Debug\Learning C part 1.exe
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 1 - Variables\Learning C part 1\bin\Debug\Learning C part 1.pdb
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 1 - Variables\Learning C part 1\obj\Debug\Learning C part 1.csprojResolveAssemblyReference.cache

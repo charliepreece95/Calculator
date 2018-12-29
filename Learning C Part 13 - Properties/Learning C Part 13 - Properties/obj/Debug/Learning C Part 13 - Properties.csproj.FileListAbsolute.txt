@@ -1,0 +1,6 @@
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 13 - Properties\Learning C Part 13 - Properties\bin\Debug\Learning C Part 13 - Properties.exe.config
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 13 - Properties\Learning C Part 13 - Properties\bin\Debug\Learning C Part 13 - Properties.exe
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 13 - Properties\Learning C Part 13 - Properties\bin\Debug\Learning C Part 13 - Properties.pdb
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 13 - Properties\Learning C Part 13 - Properties\obj\Debug\Learning C Part 13 - Properties.csprojResolveAssemblyReference.cache
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 13 - Properties\Learning C Part 13 - Properties\obj\Debug\Learning C Part 13 - Properties.exe
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 13 - Properties\Learning C Part 13 - Properties\obj\Debug\Learning C Part 13 - Properties.pdb

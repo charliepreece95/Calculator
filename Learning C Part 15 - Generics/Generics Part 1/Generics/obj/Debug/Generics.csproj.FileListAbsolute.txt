@@ -1,0 +1,12 @@
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics Part 1\Generics\bin\Debug\Generics.exe.config
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics Part 1\Generics\obj\Debug\Generics.exe
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics Part 1\Generics\obj\Debug\Generics.pdb
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics Part 1\Generics\bin\Debug\Generics.exe
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics Part 1\Generics\bin\Debug\Generics.pdb
+C:\Users\Charlie Preece\Desktop\LearningC\Learning C Part 15 - Generics\Generics Part 1\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
