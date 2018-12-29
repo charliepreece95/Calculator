@@ -1,0 +1,12 @@
+C:\Users\Charlie Preece\Documents\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Charlie Preece\Documents\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Charlie Preece\Documents\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Charlie Preece\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Charlie Preece\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Charlie Preece\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Charlie Preece\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Charlie Preece\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Charlie Preece\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Charlie Preece\OneDrive\Documents\Miscellaneous\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Charlie Preece\OneDrive\Documents\Miscellaneous\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Charlie Preece\OneDrive\Documents\Miscellaneous\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
